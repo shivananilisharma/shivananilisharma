@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivani Sharma
+- 👋 Hi, I’m @Shivani Sharma
 - 👀 I’m interested in coding & video editing
 - 🌱 I’m currently learning python and JavaScript on top of HTML and CSS
 - 📫 How to reach me Shivani96230@gmail.com
